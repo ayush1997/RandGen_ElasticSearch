@@ -33,4 +33,4 @@
   
 ### Data visualization and modelling.ipynb
 
-  This notebook contains implementation of **Data Analysis/Exploration** ,**Feature Selection** and **Model Training** .
+  This notebook contains implementation of **Data Analysis/Exploration** ,**Feature Selection** and **Model Training** on the data generated using the previous noteboook.
